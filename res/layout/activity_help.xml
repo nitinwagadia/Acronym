@@ -1,0 +1,24 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   
+    tools:context=".Help" >
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Add Word: press Add button on right hand top corner.Fill short form,full form and press ok 
+        
+ Add Category :press Add button on right hand top corner.Fill category name and press ok
+ 
+ Edit or Delete Word/Category: long press on list will give a pop up with both the options 
+ 
+ Meaning of Word: simple click on short form wil display its long form in toast."
+        
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="17dp" />
+
+</RelativeLayout>
+

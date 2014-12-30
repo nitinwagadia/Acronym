@@ -1,0 +1,21 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   
+    tools:context=".Help" >
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="We are a team of young android developers.We have tried to provide a user friendly app.For any suggestions or queries please feel free to contact us.Our email ids are 
+Nitin Wagadia-palintin@gmail.com
+Varsha Jain-vashvj@gmail.com
+Meera Nagaria-meeranagaria@gmail.com
+        
+This app is Distributed under GNU GPL Version 3"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="20dp" />
+
+</RelativeLayout>
