@@ -1,6 +1,6 @@
 Android-Acronym
 ===============
-This application “Acronyms App Builder” is very user-friendly.
+This application “Acronyms” is very user-friendly.
 Firstly, the user can create categories
 of his own choice and convenience. Different categories may have similar
 words with different meanings. On creating a category short forms and
